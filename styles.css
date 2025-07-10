@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+    background-color: #fffffffd;
+}
+
+canvas {
+    display: block;
+    background-color: rgb(145, 173, 103);
+}
+
+#controls {
+    text-align: center;
+    background-color: aqua;
+    height: 8vh;
+    margin: 1vh;
+}
